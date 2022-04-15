@@ -1,0 +1,22 @@
+{
+  "name": "readme",
+  "version": "1.0.0",
+  "description": "hello",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AmplifyRebel/readme-generator.git"
+  },
+  "keywords": [
+    "hi"
+  ],
+  "author": "ethan",
+  "license": "UNLICENSED",
+  "bugs": {
+    "url": "https://github.com/AmplifyRebel/readme-generator/issues"
+  },
+  "homepage": "https://github.com/AmplifyRebel/readme-generator#readme"
+}
